@@ -2,7 +2,7 @@
 
 # **Monitoring temperatures and spO2 using an Arduino Uno and ESP32 on OHmnibot**
 
-## ***Prequisite setting:***
+## ***Prerequisites setting:***
 Hardwares:
 
 - Arduino Uno 
